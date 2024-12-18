@@ -1,0 +1,4 @@
+[1] NATIONAL TRANSPORT AUTHORITY. 2015. Available at: http://nta.govmu.org/English/Statistics/Pages/Arch ives.aspx. [Accessed 24 April 2015]. 
+[2] Bharambe, M. M. P., and Dharmadhikari, S. C. (2015) “Stock Market Analysis Based on Artificial Neural Network with Big data”. Fourth Post Graduate Conference, 24-25th March 2015, Pune, India. 
+[3] Pudaruth, S. (2014) “Predicting the Price of Used Cars using Machine Learning Techniques”. International Journal of Information & Computation Technology, Vol. 4, No. 7, pp.753- 764. 
+[4] Jassibi, J., Alborzi, M. and Ghoreshi, F. (2011) “Car Paint Thickness Control using Artificial Neural Network and Regression Method”. Journal of Industrial Engineering International, Vol. 7, No. 14, pp. 1-6, November 2010 
